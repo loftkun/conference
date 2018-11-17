@@ -3,6 +3,8 @@
 
 https://serverless.connpass.com/event/102585/
 
+Twitter [#serverlessfukuoka](https://twitter.com/search?q=%23serverlessfukuoka)
+
 2018/11/16(金)
 さくらインターネット福岡オフィス
 
