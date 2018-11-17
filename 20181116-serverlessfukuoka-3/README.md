@@ -70,5 +70,5 @@ https://serverless.connpass.com/event/102585/
 - サービスマップ  Epsagon
 - Portable Functions
   - VS Codeでブレークポイント貼って動かせる
-  - Durable Functions
+- Durable Functions
   - 関数オーケストレーション
