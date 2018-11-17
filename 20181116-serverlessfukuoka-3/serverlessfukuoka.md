@@ -24,15 +24,14 @@ https://serverless.connpass.com/event/102585/
 
 # ETL
 - S3に置かれたデータを可視化したい
-- Extract/Transform/Load
   - Extract   : 抽出
   - Transform : 加工
   - Load      : 読み込み
 - AWS Glueを使った
-  - データをParquet形式にして可視化
+  - データをParquet形式にして可視化
     - https://parquet.apache.org/
 
-# 各社のFaaSを比較
+# 各社のFaaSを比較
 - Serverless Compute Manifestoというものがある( o はタイポではない)
   - https://medium.com/@denismakogon/demystifying-serverless-compute-manifesto-ee07a3c2565c
 - AWS Lambda
@@ -40,7 +39,7 @@ https://serverless.connpass.com/event/102585/
 - GCP Cloud Functions
 
 - PostManで初回を計測 
-- ab コマンドで10接続で100リクエスト
+- ab コマンドで10接続で100リクエスト
   - 一回実行後に再度実行
 
 # Alexa SDK
@@ -53,20 +52,19 @@ https://serverless.connpass.com/event/102585/
 # コンテナベースサーバーレスプラットフォーム「Knative」はServerlessなのか？	
 - Knative
   - kubernetesをベースとしたサーバレスプラットフォーム
-  - 一定時間リクエストが途絶えるとコンテナ数が0になる
+  - 一定時間リクエス トが途絶えるとコンテナ数が0になる
   - kafkaなどのメッセージングシステムと連携してコンテナを起動
   - Github -> DockerHub -> Knative
-  - GKE Serverless add-on がKnativeと同時発表されたαプレビュー中で、
-    マネージドなKnativeになる？
-  - Knativeが目指す世界
+  - GKE Serverless add-on がKnativeと同時発表されたαプレビュー中で、マネージドなKnativeになる？
+  - Knativeが目指す世界
     - @IT Googleのウルス・ヘルツル氏に聞いた、「IstioやKnativeで目指すのはクラウドのアンロックイン」
       - http://www.atmarkit.co.jp/ait/articles/1808/28/news036.html
   
 
 # Serverlessconf Tokyo 2018に行ってきた
 - サービスマップ  Epsagon
-- Portable Functions
+- Portable Functions
   - VS Codeでブレークポイント貼って動かせる
-- Durable Functions
+  - Durable Functions
   - 関数オーケストレーション
   
