@@ -8,6 +8,15 @@
   - アカウント作成、クレカ登録
   - SSH公開鍵登録
 
+## 作業中に追加で入れたもの
+- jq
+  - curlのレスポンスを見やすくするため
+- docker
+  - ローカルで開発方法を試すため
+- VSCode Extention
+  - go
+  - mysql
+
 ## 資料
 [pepabo/todo-backend-golang-mc](https://github.com/pepabo/todo-backend-golang-mc)
 
