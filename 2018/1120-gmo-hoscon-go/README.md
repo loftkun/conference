@@ -2,16 +2,28 @@
 
 ハッシュタグ [#hoscon](https://twitter.com/search?q=%23hoscon)
 
+## 事前準備
+- go入れた
+- ロリポップ！マネージドクラウド
+  - アカウント作成、クレカ登録
+  - SSH公開鍵登録
+
+## 資料
+[pepabo/todo-backend-golang-mc](https://github.com/pepabo/todo-backend-golang-mc)
+
 ## デプロイ
-アップロードした。
 年内は無料で、削除しないと課金されるので注意
 
-- バックエンド https://golang-hoscon-20181120.lolipop.io/
-- フロント + バックエンド https://todobackend.com/client/index.html?https://golang-hoscon-20181120.lolipop.io/todos
+- バックエンド golang-hoscon-20181120.lolipop.io
+- フロント + バックエンド todobackend.com/client/index.html?https://golang-hoscon-20181120.lolipop.io/todos
 
 ## 実装など
+- Makefile
+  - かっこいい、お手本になる。
+  - sshはこういう感じでコマンドも実行できるらしいぞ
+    - `ssh -p ${SSH_PORT} ${SSH_USER}@${SSH_HOST} 'mkdir -p /var/app/releases`
 
-- 依存関係が書かれてる
+- 依存関係
   - go.mod
     - ここに書かれた階層に従って$GOPATH配下にパッケージが落とされてくるらしい
   - go.sum
@@ -20,33 +32,6 @@
 - テンプレート
   - 値の埋め込みなどは以下のパッケージの機能を使っている
     - html/template
-
-- Makefile
-  - sshはこういう感じでコマンドも実行できるらしいぞ
-    - `ssh -p ${SSH_PORT} ${SSH_USER}@${SSH_HOST} 'mkdir -p /var/app/releases`
-
-- GOPATH設定されてないので設定しておいた方が良さげ
-
-``` bash
-loft-air:~ loft$ echo $GOPATH
-
-loft-air:~ loft$
-```
-
-以下らへんが良さそう
-
-``` bash
-loft-air:~ loft$ ls -alh /Users/loft/go/pkg/mod/
-total 0
-drwxr-xr-x  4 loft  staff   136B 11 20 19:31 .
-drwxr-xr-x  3 loft  staff   102B 11 20 19:31 ..
-drwxr-xr-x  4 loft  staff   136B 11 20 19:31 cache
-drwxr-xr-x  6 loft  staff   204B 11 20 19:31 github.com
-loft-air:~ loft$
-loft-air:~ loft$
-```
-
-上記はGOPATH=~/goなのでこれを設定しておくことしようと思う
 
 - ローカルの開発
   - docker入れた直後は失敗したけど、再トライしたらOKだった
@@ -68,6 +53,31 @@ mysqlについては使われないだろう別名的なもの(_)をつけてい
 ``` go
 	chi_hogehoge "github.com/go-chi/chi"
 ```
+
+## Goについて
+- GOPATH
+  - 設定されてないので設定しておいた方が良さげ
+
+``` bash
+loft-air:~ loft$ echo $GOPATH
+
+loft-air:~ loft$
+```
+
+以下らへんが良さそう
+
+``` bash
+loft-air:~ loft$ ls -alh /Users/loft/go/pkg/mod/
+total 0
+drwxr-xr-x  4 loft  staff   136B 11 20 19:31 .
+drwxr-xr-x  3 loft  staff   102B 11 20 19:31 ..
+drwxr-xr-x  4 loft  staff   136B 11 20 19:31 cache
+drwxr-xr-x  6 loft  staff   204B 11 20 19:31 github.com
+loft-air:~ loft$
+loft-air:~ loft$
+```
+
+上記はGOPATH=~/goなのでこれを設定しておくことしようと思う
 
 ## その他
 
