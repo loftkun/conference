@@ -1,6 +1,8 @@
 # Fukuoka.rb #115
 
 2018/11/21 Wed GMOペパボさん
+![RUBY](https://pbs.twimg.com/media/DshNgqlVsAEydAx.jpg "RUBY")
+
 
 ハッシュタグ [#fukuokarb](https://twitter.com/search?q=%23fukuokarb)
 
@@ -589,11 +591,21 @@ loft-air:1121 loft$
 ## VS CodeのExtensionなど
 https://qiita.com/kikunantoka/items/ebae7f71e0952a26a5dc
 
-Extensionの`Ruby`を入れた
-
+Extensionの`Ruby`を入れた。
+以下が説明の見出し。Debuggerや補完機能に期待。
+- Install
+- Language Server
+- Debugger
+- Linters
+- Formatting
+- Autocomplete
+- Intellisense (Go to/Peek Definition/Symbols)
+- TODO
+- Contributing
+- License
 
 ## オススメの本など聞いてみた
-著者自ら本を紹介いただくなど
+なんと著者自ら本を紹介いただくなど
 - [ゼロからわかるRuby超入門](http://pupupopo88.hatenablog.com/entry/2018/11/20/205127)
 - [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/dp/4839962227/)
 - [改訂2版 Ruby逆引きハンドブック](https://www.amazon.co.jp/dp/B07GP1JYZH/ref=cm_sw_r_cp_ep_dp_c5t9Bb07CYZQE)
