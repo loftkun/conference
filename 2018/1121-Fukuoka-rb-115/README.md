@@ -31,7 +31,7 @@ $ rbenv versions
 $ # 切り替え前
 $ ruby -v
 $ # 切り替える
-$ rbenv global 2.1.0
+$ rbenv global 2.5.3
 $ # 切り替え後
 $ ruby -v
 ```
