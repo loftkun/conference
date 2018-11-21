@@ -579,7 +579,7 @@ ruby 2.3.7p456 (2018-03-28 revision 63024) [universal.x86_64-darwin16]
 loft-air:~ loft$
 ```
 
-## hollo world
+## hello world
 ```
 loft-air:1121 loft$ cat hello.rb
 puts "Hello, world!"
