@@ -13,7 +13,7 @@
   - curlのレスポンスを見やすくするため
 - docker
   - ローカルで開発方法を試すため
-- VSCode Extention
+- VSCode Extension
   - go
   - mysql
 
