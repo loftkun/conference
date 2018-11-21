@@ -5,7 +5,10 @@
 ハッシュタグ [#fukuokarb](https://twitter.com/search?q=%23fukuokarb)
 
 ## ruby
-[公式](https://www.ruby-lang.org/ja/)
+- [公式](https://www.ruby-lang.org/ja/)
+  - [ドキュメント](https://www.ruby-lang.org/ja/documentation/)
+    - 各バージョンのリファレンスマニュアルがある
+    - 例えば [2.3.0](https://docs.ruby-lang.org/ja/2.3.0/doc/index.html)
 
 ## rubyを入れる
 macにはもともと入ってるけどrbenvが便利らしい
@@ -573,3 +576,25 @@ loft-air:~ loft$ ruby -v
 ruby 2.3.7p456 (2018-03-28 revision 63024) [universal.x86_64-darwin16]
 loft-air:~ loft$
 ```
+
+## hollo world
+```
+loft-air:1121 loft$ cat hello.rb
+puts "Hello, world!"
+loft-air:1121 loft$ ruby hello.rb
+Hello, world!
+loft-air:1121 loft$
+```
+
+## VS CodeのExtensionなど
+https://qiita.com/kikunantoka/items/ebae7f71e0952a26a5dc
+
+Extensionの`Ruby`を入れた
+
+
+## オススメの本など聞いてみた
+著者自ら本を紹介いただくなど
+- [ゼロからわかるRuby超入門](http://pupupopo88.hatenablog.com/entry/2018/11/20/205127)
+- [現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/dp/4839962227/)
+- [改訂2版 Ruby逆引きハンドブック](https://www.amazon.co.jp/dp/B07GP1JYZH/ref=cm_sw_r_cp_ep_dp_c5t9Bb07CYZQE)
+
