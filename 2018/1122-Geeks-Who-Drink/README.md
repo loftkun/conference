@@ -2,7 +2,9 @@
 
 2018/11/22 Thu
 
-株式会社ヌーラボ
+https://nulab.connpass.com/event/105113/
+
+株式会社ヌーラボさんにて
 
 ハッシュタグ [#GWD_Nulab](https://twitter.com/search?q=%23GWD_Nulab)
 
@@ -16,8 +18,7 @@
 - モニタリング
   - Prometheus, Graphana
 
-継続的な開発がしやすくなった
-
+- 継続的な開発がしやすくなった
 - 部分的な変更
 
 まだまだ課題はある
@@ -68,7 +69,7 @@ Optsの職種
 
 #### DevとOpsの分離が引き起こす問題
 
-- 平均復旧時間(MTTR)の増加
+平均復旧時間(MTTR)の増加
 
 #### インフラ寄り、改善寄りのSRE
 
