@@ -21,19 +21,23 @@ Fusicさんにて
 - スピーカーの初期設定
 
 AmazonのCMでechoをよく見せすぎている
+
 実際はあんなには動かない
 
 ### alexaの未来を考える
 
 生活に根付いたもの(無意識的に)
+
 スキルがリリースされ始めた
 
 ## Alexa年間振り返り
 
 前半 Alexa
+
 後半 新サービス
 
 現在5000スキルある
+
 日本は1700
 
 amazon pay
@@ -59,6 +63,7 @@ ASK と SMAPIを使った公式テストツール
 ## Amazon Deep Racer
 
 1/18のラジコンカー
+
 機械学習
 
 同好会発足！
@@ -76,12 +81,15 @@ CloudWatch Logs Insightsでログの高速な分析が可能に
 ### Lambda関連
 
 Rubyサポート
+
 Lambda Layerによるコードの共有
+
 Custom Runtimesのサポート
 
 ### Custom Runtimes
 
 シェルスクリプト
+
 Amazon Linuxで実行可能な言語はどんな言語でも動く
 
 関数のランタイムをzipに含める
@@ -111,19 +119,19 @@ bootstrap
 
 ## ML
 
-SageMaker
-CloudWatchと連携
-Apache Airflowに対応
-Tensorflow, Chainerサポート
-Kindesis Video Streamsと連携、リアルタイムビデオ分析
-Object2Vec, IP Insight
+- SageMaker
+- CloudWatchと連携
+- Apache Airflowに対応
+- Tensorflow, Chainerサポート
+- Kindesis Video Streamsと連携、リアルタイムビデオ分析
+- Object2Vec, IP Insight
 
 ## ML Frameworks + Infra
 
-Deep Learning AMI
-EC2でのDeep Leraningのためのダイナミックトレーニング
-Amazon Elastic interxxxx
-Marketplace for Machine Learning
+- Deep Learning AMI
+- EC2でのDeep Leraningのためのダイナミックトレーニング
+- Amazon Elastic interxxxx
+- Marketplace for Machine Learning
 
 SageMaker Ground Truthのデモ
 
