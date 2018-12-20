@@ -176,5 +176,22 @@ Azure DevOps
 - Lab Services
 - Repos
 
+GitHub + Azure Pipelines
 
+デモ
+
+- 最初は設定はWebUIで作った方がいい
+- yamlにエクスポートできるのでカスタマイズできる
+
+Azure DevOpsの素敵なところ
+
+aldents-dev
+
+Azure Repos
+
+- 1つのプロジェクトに複数のリポジトリを紐付けれる
+
+強力すぎるHostedAgent
+
+リリースマネージメント
 
