@@ -18,3 +18,9 @@ take notes by loftkun.
 | 2018/12/08 Sat | [オープンソースカンファレンス 2018 Fukuoka](https://www.ospn.jp/osc2018-fukuoka/) | オープンソースカンファレンス実行委員会 | 福岡ソフトリサーチパーク センタービル
 |2018/12/10 Mon|[JapanContainerDays v18.12 報告会＠福岡](https://connpass.com/event/110115/) | うづらさん | GMOペパボ株式会社
 |2018/12/20 Thu|[緊急開催! Connect(); Japan 2018 福岡サテライト会場](https://fukuazu.connpass.com/event/112610) | Japan Azure User Group 福岡支部（ふくあず） | 株式会社オルターブース
+
+# 2019
+
+| date | name | sponsorship | location |
+| --- | --- | --- | --- |
+| 2019/01/12 Sat | [Rancher2.0 Kubernetes Workshop in Fukuoka #01](https://rancherjp.connpass.com/event/112374/) | Rancher JP | さくらインターネット福岡オフィス
