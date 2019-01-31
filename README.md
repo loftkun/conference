@@ -1,9 +1,15 @@
 # conference
 
-take notes by loftkun.
-- [GitHub](https://github.com/loftkun)
-- [Qiita](https://qiita.com/loftkun)
-- [Twitter](https://twitter.com/loftkun)
+Notes of study group.
+
+using [git-auto-push](https://github.com/loftkun/git-auto-push) for auto commit & push.
+
+please follow me ( [twitter](https://twitter.com/loftkun) / [qiita](https://qiita.com/loftkun) )
+
+## contents
+
+- [2018](#2018)
+- [2019](#2019)
 
 ## 2018
 
@@ -24,3 +30,5 @@ take notes by loftkun.
 | date | name | sponsorship | location |
 | --- | --- | --- | --- |
 | 2019/01/12 Sat | [Rancher2.0 Kubernetes Workshop in Fukuoka #01](https://rancherjp.connpass.com/event/112374/) | Rancher JP | さくらインターネット福岡オフィス
+| 2019/01/17 Thu | [ZOZO RESEARCH Meetup in FUKUOKA #1](https://zozotech-inc.connpass.com/event/115066/) | 株式会社ZOZOテクノロジーズ | 株式会社ZOZOテクノロジーズ
+| 2019/01/31 Thu | [Rakuten Fukuoka Tech Meetup Vol.1](https://rakuten.connpass.com/event/112419/) | 楽天株式会社　福岡支社 | 楽天株式会社　福岡支社
