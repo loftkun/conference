@@ -4,7 +4,7 @@
 
 楽天株式会社　福岡支社さんにて
 
-ハッシュタグ [#Rakuten_Fukuoka_0131](https://twitter.com/search?q=%23#Rakuten_Fukuoka_0131)
+ハッシュタグ [#Rakuten_Fukuoka_0131](https://twitter.com/search?q=%23Rakuten_Fukuoka_0131)
 
 
 ![](https://pbs.twimg.com/media/DyO2xLNVsAAa1aW.jpg)
