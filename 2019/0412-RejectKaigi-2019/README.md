@@ -47,7 +47,6 @@ GMOペパボ 福岡支社さんにて
 
 ## Agyoh and Umgyo Assume Controll of a Mobile Device
 
-
 LT枠はAcceptされました！
 40分枠はNot Acceptでした、供養します
 
@@ -56,4 +55,27 @@ LT枠はAcceptされました！
 - Umgyo
   - クライアント
 - 金剛力士が由来
+- 次回は4/21にAfter Hackをやるよ！
+
+## RubyKaigi 2019タイムテーブル徹底解説
+
+https://rubykaigi.org/2019/schedule
+
+
+- OpenAPI3
+  - swaggerの次バージョン
+
+## mruby with Visual Programming App -Springin' + mruby-
+
+## Rails 6 MySQLのutf8mb4対応とは何であって何ではないのか
+
+## EnumerableをRubyで再実装してみる
+
+## just_all_the_same': A gem accelerate Array#all? inquiry
+
+## JavaScript-Free Soft-Realtime Browsing
+
+## Ruby on AWS Lambda
+
+
 

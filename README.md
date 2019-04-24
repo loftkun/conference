@@ -42,4 +42,10 @@ please follow me ( [twitter](https://twitter.com/loftkun) / [qiita](https://qiit
 |2019/03/12 Tue|[Serverless Meetup Fukuoka #4](https://serverless.connpass.com/event/120972/) | Serverless | 株式会社オルターブース
 |2019/03/13 Wed|[SRE meetup at Fukuoka #1](https://sre-fukuoka.connpass.com/event/119041/) | SREコミュニティ@福岡 | LINE Fukuoka株式会社
 |2019/04/08 Mon|[#ふくばねてす node-1](https://fukubernetes.connpass.com/event/123898/) | #ふくばねてす | The Company 中洲川端
-|2019/04/12 Mon|[RejectKaigi 2019 福岡会場 (a.k.a. Fukuoka.rb #131)](https://fukuokarb.connpass.com/event/124966/) | Fukuoka.rb | GMOペパボ 福岡支社
+|2019/04/12 Fri|[RejectKaigi 2019 福岡会場 (a.k.a. Fukuoka.rb #131)](https://fukuokarb.connpass.com/event/124966/) | Fukuoka.rb | GMOペパボ 福岡支社
+|2019/04/15 Mon|[CloudNative Days Fukuoka 2019 Meetup](https://eventregist.com/e/cndf2019meetup) | CloudNative Days実行委員会 | LINE Fukuoka株式会社
+|2019/04/16 Tue|[CloudNative Days Fukuoka 2019](https://eventregist.com/e/cndf2019) | CloudNative Days実行委員会 | アクロス福岡
+|2019/04/17 Wed|[RubyKaigi 2019 前夜祭 - Ippudo Party!! -](https://pepabo.connpass.com/event/124168/) | GMOペパボ株式会社 | 一風堂 天神西通りスタンド
+|2019/04/18 Thu|[【福岡】CircleCI ユーザーコミュニティミートアップ #1](https://circleci.connpass.com/event/123859/) | CircleCI | 株式会社 Fusic
+|2019/04/23 Tue|[【増枠！】Agile QA Night in FUKUOKA!!](https://connpass.com/event/126565/) |  | LINE Fukuoka株式会社
+|2019/04/24 Wed|[Google Cloud Next 2019 Extended in Fukuoka](https://gcpugfukuoka.connpass.com/event/127027/) | GCPUG福岡（Google Cloud Platform User Group Fukuoka） | 株式会社グルーヴノーツ
