@@ -49,3 +49,4 @@ please follow me ( [twitter](https://twitter.com/loftkun) / [qiita](https://qiit
 |2019/04/18 Thu|[【福岡】CircleCI ユーザーコミュニティミートアップ #1](https://circleci.connpass.com/event/123859/) | CircleCI | 株式会社 Fusic
 |2019/04/23 Tue|[【増枠！】Agile QA Night in FUKUOKA!!](https://connpass.com/event/126565/) |  | LINE Fukuoka株式会社
 |2019/04/24 Wed|[Google Cloud Next 2019 Extended in Fukuoka](https://gcpugfukuoka.connpass.com/event/127027/) | GCPUG福岡（Google Cloud Platform User Group Fukuoka） | 株式会社グルーヴノーツ
+|2019/05/03 Fri|[Cloud Native FUKUOKA #01](https://cnjp.connpass.com/event/126657/) | Cloud Native JP | さくらインターネット福岡オフィス

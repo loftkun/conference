@@ -13,6 +13,8 @@
 
 カホエンタープライズ 大隈 さん
 
+[Data Analytics 関連のご紹介](https://docs.google.com/presentation/d/1eRF09WHc3Nctns5w4CyJxkwptlICPe-QOlrrDayXUnc/edit#slide=id.p1)
+
 - アビスパ福岡にてシステム担当していた！
   - Twitter, Facebookの中の人をやっていたよ！
   - どんたくでマスコットの中の人もやったよ！
