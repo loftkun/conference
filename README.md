@@ -50,3 +50,14 @@ please follow me ( [twitter](https://twitter.com/loftkun) / [qiita](https://qiit
 |2019/04/23 Tue|[【増枠！】Agile QA Night in FUKUOKA!!](https://connpass.com/event/126565/) |  | LINE Fukuoka株式会社
 |2019/04/24 Wed|[Google Cloud Next 2019 Extended in Fukuoka](https://gcpugfukuoka.connpass.com/event/127027/) | GCPUG福岡（Google Cloud Platform User Group Fukuoka） | 株式会社グルーヴノーツ
 |2019/05/03 Fri|[Cloud Native FUKUOKA #01](https://cnjp.connpass.com/event/126657/) | Cloud Native JP | さくらインターネット福岡オフィス
+|2019/05/09 Fri|[Cloud Native Online #01](https://cnjp.connpass.com/event/129658/) | Cloud Native JP | Zoom（Web会議）
+|2019/05/15 Wed|[【増枠しました！】#8 FukuokaJS『TypeScript』](https://fukuokajs.connpass.com/event/129155/) | FukuokaJS | GMOペパボ株式会社
+|2019/05/24 Fri|[俺の話を聞け！！LT大会 #14](https://cdg.connpass.com/event/129574/) | chibi-developer | 株式会社ベガコーポレーション イベントスペース
+|2019/05/28 Tue|[【福岡】SmartNews Tech Night in Fukuoka Vol.1](https://smartnews.connpass.com/event/128905/) | SmartNews | スマートニュース株式会社福岡オフィス
+|2019/06/05 Wed|[React勉強会@福岡 vol.2](https://rakko.connpass.com/event/130741/) | らっこ企画 | GMOペパボ株式会社
+|2019/06/06 Thu|[de:code2019 報告会 × オルターブース](https://alterbooth.connpass.com/event/131562/) | オルターブース | 日本マイクロソフト 九州支店
+|2019/06/19 Wed|[Google I/O '19のWebをまとめる会 - connpass](https://mentaico-js.connpass.com/event/132416/) | mentaico.js | 株式会社ベガコーポレーション イベントスペース
+
+
+
+
